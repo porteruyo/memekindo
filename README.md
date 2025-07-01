@@ -1,2 +1,1 @@
-# memekindo
-memekindo
+# [memekindo](https://memekindo.pages.dev)
